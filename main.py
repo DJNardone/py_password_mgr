@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 from random import randint, choice, shuffle
-import pyperclip
+import pyperclip  # Copies data automatically to clipboard for quick pasting elsewhere.
 import json
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
